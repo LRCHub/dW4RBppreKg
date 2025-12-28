@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Trying to Feel Alive",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-28T18:43:39.439532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trying to Feel Alive",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Trying_to_Feel_Alive_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trying to Feel Alive",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Trying_to_Feel_Alive_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trying to Feel Alive",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/03_Trying_to_Feel_Alive_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trying to Feel Alive (Together Live Edit)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Trying_to_Feel_Alive_(Together_Live_Edit)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Porter Robinson - Trying to Feel Alive (Official Audio)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/05_Porter_Robinson_-_Trying_to_Feel_Alive_(Official_Audio)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trying To Feel Alive (Live @ Coachella 2023)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/06_Trying_To_Feel_Alive_(Live_@_Coachella_2023)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trying to Feel Alive",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Trying_to_Feel_Alive_Porter_Robinson.txt"
+    }
+  ]
+}
